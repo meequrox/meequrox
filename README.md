@@ -12,4 +12,4 @@
 
 ## Contacts
 
-[![Session](https://img.shields.io/badge/Session-000000.svg?style=for-the-badge&logo=Session&logoColor=white)](https://privatebin.deblan.org/?4a2e9b8902f9eac5#F6i6J99tEuzYYhX1YHQq7dgk7ocbBMcGE8kAbpzBxyMu)
+[Matrix](https://matrix.to/#/@sunnymw:imagisphe.re) (use [proxy](https://plainproxies.com/resources/free-web-proxy) if the link is blocked by your ISP)

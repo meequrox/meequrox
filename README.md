@@ -11,4 +11,4 @@
 
 ## Contacts
 
-[Matrix](https://matrix.to/#/@sunnymw:imagisphe.re) (use [proxy](https://plainproxies.com/resources/free-web-proxy) if the link is blocked by your ISP)
+[![Matrix](https://img.shields.io/badge/Matrix%20(click%20me)-000000.svg?style=for-the-badge&logo=Matrix&logoColor=white)](https://mto.vern.cc/#/@sunnymw:imagisphe.re)
